@@ -12,8 +12,8 @@
 
 ## 部署
 
-- GitHub repo：待建立
-- GitHub Pages：啟用
+- GitHub repo：https://github.com/choaan1019/TEST
+- GitHub Pages：https://choaan1019.github.io/TEST/
 
 ## 安全原則
 

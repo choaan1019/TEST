@@ -5,7 +5,7 @@
 專案名稱：TEST
 專案用途：測試用
 主要工作目錄：D:\OneDrive - sram.com\Project\2026 codex_skill
-GitHub repo：待建立
+GitHub repo：https://github.com/choaan1019/TEST
 預設 branch：main
 
 ## Obsidian 對應筆記
@@ -19,7 +19,7 @@ Obsidian vault：C:\Users\choaa\OneDrive\文件\Obsidian Vault
 ## 工作桌 + 三個家
 
 - 工作桌：D:\OneDrive - sram.com\Project\2026 codex_skill
-- GitHub：待建立
+- GitHub：https://github.com/choaan1019/TEST
 - Obsidian：C:\Users\choaa\OneDrive\文件\Obsidian Vault + 專案工作流程.md
 - Firebase：使用；目前 Codex Firebase MCP 指向 D:\OneDrive - sram.com\Project\2026database，是否改綁 TEST 需另行確認
 
@@ -45,7 +45,7 @@ Obsidian vault：C:\Users\choaa\OneDrive\文件\Obsidian Vault
 
 入口檔：README.md
 設定檔：AGENTS.md、.gitignore
-部署位置：GitHub Pages
+部署位置：https://choaan1019.github.io/TEST/
 
 ## 不要做
 
