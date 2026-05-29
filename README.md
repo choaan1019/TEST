@@ -14,6 +14,7 @@
 
 - GitHub repo：https://github.com/choaan1019/TEST
 - GitHub Pages：https://choaan1019.github.io/TEST/
+- 測試頁：`index.html`
 
 ## 安全原則
 
