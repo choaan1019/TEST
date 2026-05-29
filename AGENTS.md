@@ -21,7 +21,7 @@ Obsidian vault：C:\Users\choaa\OneDrive\文件\Obsidian Vault
 - 工作桌：D:\OneDrive - sram.com\Project\2026 codex_skill
 - GitHub：https://github.com/choaan1019/TEST
 - Obsidian：C:\Users\choaa\OneDrive\文件\Obsidian Vault + 專案工作流程.md
-- Firebase：使用；目前 Codex Firebase MCP 指向 D:\OneDrive - sram.com\Project\2026database，是否改綁 TEST 需另行確認
+- Firebase：使用；沿用既有 Firebase MCP 設定，指向 D:\OneDrive - sram.com\Project\2026database
 
 ## 同步規則
 
