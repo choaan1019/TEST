@@ -4,7 +4,7 @@
 
 專案名稱：TEST
 專案用途：測試用
-主要工作目錄：D:\OneDrive - sram.com\Project\2026 codex_skill
+主要工作目錄：D:\OneDrive - sram.com\20_Project_專案\Project\2026 codex_skill
 GitHub repo：https://github.com/choaan1019/TEST
 預設 branch：main
 
@@ -18,10 +18,10 @@ Obsidian vault：C:\Users\choaa\OneDrive\文件\Obsidian Vault
 
 ## 工作桌 + 三個家
 
-- 工作桌：D:\OneDrive - sram.com\Project\2026 codex_skill
+- 工作桌：D:\OneDrive - sram.com\20_Project_專案\Project\2026 codex_skill
 - GitHub：https://github.com/choaan1019/TEST
 - Obsidian：C:\Users\choaa\OneDrive\文件\Obsidian Vault + 專案工作流程.md
-- Firebase：使用；沿用既有 Firebase MCP 設定，指向 D:\OneDrive - sram.com\Project\2026database
+- Firebase：使用；沿用既有 Firebase MCP 設定，指向 D:\OneDrive - sram.com\20_Project_專案\Project\2026database
 
 ## 同步規則
 
